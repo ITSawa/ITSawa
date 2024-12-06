@@ -2,36 +2,6 @@
 
 Hello and welcome to my GitHub! My name is **Savaa**, and I am a software developer with extensive knowledge and experience in **Python**, **JavaScript**, and **TypeScript**. Here, you'll find projects that showcase my skills and interests in various technologies.
 
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin: 20px 0;
-  }
-  .skill-section {
-    flex: 1;
-    min-width: 250px;
-    margin: 10px;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    background-color: #f9f9f9;
-  }
-  .skill-section h3 {
-    text-align: center;
-    color: #333;
-  }
-  .skill-section ul {
-    list-style: none;
-    padding: 0;
-  }
-  .skill-section ul li {
-    margin: 5px 0;
-    font-size: 1.1em;
-  }
-</style>
-
 ## 💻 My Skills
 
 <div class="skills-container">
