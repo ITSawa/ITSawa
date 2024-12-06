@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-Hello and welcome to my GitHub! My name is **Savaa**, and I am a software developer with extensive knowledge and experience in **Python**, **JavaScript**, and **TypeScript**. Here, you'll find projects that showcase my skills and interests in various technologies.
+Hello and welcome to my GitHub! My name is **Savva**, and I am a software developer with extensive knowledge and experience in **Python**, **JavaScript**, and **TypeScript**. Here, you'll find projects that showcase my skills and interests in various technologies.
 
 ## 💻 My Skills
 
