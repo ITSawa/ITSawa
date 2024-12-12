@@ -52,10 +52,3 @@ I use these tools for containerization and orchestration:
 Experienced in deploying and managing web servers:
 - 🌐 **Nginx**
 
----
-
-### ✨ **Other Skills**  
-I enjoy creating websites from scratch:
-- 🌟 **Plain JavaScript**, **CSS**, **HTML**
-
----
