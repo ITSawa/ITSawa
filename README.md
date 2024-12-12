@@ -29,9 +29,14 @@ I love building projects with these frameworks:
 ---
 
 ### 🗃️ **ORMs & Databases**  
-Working with databases is a crucial part of my workflow:
+Working with databases is a crucial part of my workflow. Here are the databases and ORMs I use:
 - 🗃️ **TypeORM**
 - 💾 **Sequelize**
+- 📦 **Redis**
+- 🛢️ **PostgreSQL (pgSQL)**
+- 🗄️ **MySQL**
+- 🧳 **SQLite**
+- 🔲 **MongoDB (mcSQL)**
 
 ---
 
