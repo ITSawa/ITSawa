@@ -1,62 +1,68 @@
-# 👋 Welcome
+# 👋 Welcome to My GitHub!
 
-Hello and welcome to my GitHub! My name is **Savva**, and I am a software developer with extensive knowledge and experience in **Python**, **JavaScript**, and **TypeScript**. Here, you'll find projects that showcase my skills and interests in various technologies.
+Hello and welcome to my GitHub! I'm **Savva**, a **Software Developer** with extensive experience in **Python**, **JavaScript**, and **TypeScript**. Here you'll find a collection of projects that demonstrate my skills and interests across various technologies. Let's connect and explore the world of code!
+
+---
 
 ## 💻 My Skills
 
-<div class="skills-container">
-  <div class="skill-section">
-    <h3>Programming Languages</h3>
-    <ul>
-      <li>🐍 Python</li>
-      <li>🌐 JavaScript</li>
-      <li>📝 TypeScript</li>
-    </ul>
-  </div>
+### 🌱 **Programming Languages**  
+I'm proficient in the following languages:
+- 🐍 **Python**
+- 🌐 **JavaScript**
+- 📝 **TypeScript**
 
-  <div class="skill-section">
-    <h3>Frameworks and Libraries</h3>
-    <ul>
-      <li>🚀 Node.js</li>
-      <li>⚡ Express</li>
-      <li>⏩ Fastify</li>
-      <li>🔥 Hono</li>
-      <li>🧪 Flask</li>
-      <li>🌐 Django</li>
-      <li>🚀 FastAPI</li>
-      <li>⚛️ React</li>
-      <li>🖼️ Vue</li>
-    </ul>
-  </div>
+---
 
-  <div class="skill-section">
-    <h3>ORM and Databases</h3>
-    <ul>
-      <li>🗃️ TypeORM</li>
-      <li>💾 Sequelize</li>
-    </ul>
-  </div>
+### 🚀 **Frameworks & Libraries**  
+I love building projects with these frameworks:
+- 🖥️ **Node.js**
+- ⚡ **Express.js**
+- ⏩ **Fastify**
+- 🔥 **Hono**
+- 🧪 **Flask**
+- 🌐 **Django**
+- 🚀 **FastAPI**
+- ⚛️ **React**
+- 🖼️ **Vue.js**
 
-  <div class="skill-section">
-    <h3>Containerization and Orchestration</h3>
-    <ul>
-      <li>🐳 Docker</li>
-      <li>⚙️ Docker Compose</li>
-      <li>☸️ Kubernetes</li>
-    </ul>
-  </div>
+---
 
-  <div class="skill-section">
-    <h3>Web Servers</h3>
-    <ul>
-      <li>🌐 Nginx</li>
-    </ul>
-  </div>
+### 🗃️ **ORMs & Databases**  
+Working with databases is a crucial part of my workflow:
+- 🗃️ **TypeORM**
+- 💾 **Sequelize**
 
-  <div class="skill-section">
-    <h3>Other Skills</h3>
-    <ul>
-      <li>🌟 Developing websites with plain JavaScript, CSS, and HTML</li>
-    </ul>
-  </div>
-</div>
+---
+
+### 🐳 **Containerization & Orchestration**  
+I use these tools for containerization and orchestration:
+- 🐳 **Docker**
+- ⚙️ **Docker Compose**
+- ☸️ **Kubernetes**
+
+---
+
+### 🌐 **Web Servers**  
+Experienced in deploying and managing web servers:
+- 🌐 **Nginx**
+
+---
+
+### ✨ **Other Skills**  
+I enjoy creating websites from scratch:
+- 🌟 **Plain JavaScript**, **CSS**, **HTML**
+
+---
+
+## 📂 Featured Projects
+
+Here are some of my exciting open-source projects:
+
+- [Project 1](#) - A cool app that does amazing things.
+- [Project 2](#) - Another awesome tool I built.
+- [Project 3](#) - Check out this useful library.
+
+Feel free to explore my repositories to see more of my work and let’s collaborate! 🌍
+
+---
