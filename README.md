@@ -20,6 +20,7 @@ Hello and welcome to my GitHub! My name is **Savva**, and I am a software develo
       <li>🚀 Node.js</li>
       <li>⚡ Express</li>
       <li>⏩ Fastify</li>
+      <li>🔥 Hono</li>
       <li>🧪 Flask</li>
       <li>🌐 Django</li>
       <li>🚀 FastAPI</li>
