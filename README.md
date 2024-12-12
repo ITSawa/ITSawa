@@ -54,15 +54,3 @@ I enjoy creating websites from scratch:
 - 🌟 **Plain JavaScript**, **CSS**, **HTML**
 
 ---
-
-## 📂 Featured Projects
-
-Here are some of my exciting open-source projects:
-
-- [Project 1](#) - A cool app that does amazing things.
-- [Project 2](#) - Another awesome tool I built.
-- [Project 3](#) - Check out this useful library.
-
-Feel free to explore my repositories to see more of my work and let’s collaborate! 🌍
-
----
