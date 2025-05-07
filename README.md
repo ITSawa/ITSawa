@@ -53,12 +53,6 @@ I'm diving deeper into **full-stack development** with a focus on **Next.js**, *
 
 ---
 
-## 📊 My GitHub Stats  
-![Savva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
-
----
-
 ## 🎯 What's Cooking?  
 Currently, I'm:  
 - 🧑‍💻 Building **full-stack apps** with **Next.js** and **GraphQL**  
